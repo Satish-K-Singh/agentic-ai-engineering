@@ -9,3 +9,5 @@ data/knowledge_graph.json
 data/intent_router.joblib
 *.log
 .pytest_cache/
+.env
+**/.env
